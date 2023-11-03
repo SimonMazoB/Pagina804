@@ -427,6 +427,32 @@
                                             
                                             
                                             
-                                            }
+                                            } 
+                                            .textos3{
+                                            
+                                            font-size: 20px;
+                                            
+                                            text-align: justify;
+                                            
+                                            color: rgb(59, 50, 50);
                                         
-                                             
+                                        }
+                                        .imgtec3{
+            
+             
+            
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 1200px;
+                                            
+                                            width: 2000px;
+                                            
+                                            margin-left: 80px;
+                                            
+                                            margin-right: 80px;
+                                            
+                                            background-image: url("p1.jpg");
+                                            
+                                            }
