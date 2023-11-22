@@ -453,7 +453,7 @@
                                             
                                             margin-right: 10px;
                                             
-                                            background-image: url("p1.jpg");
+                                            background-image: url("morse.jpg");
                                             
                                             }
                                             .revolu{
@@ -483,9 +483,9 @@
         
                                                     background-repeat: no-repeat;
                                                     
-                                                    float:right;
+                                                    float:left;
                                                     
-                                                    height: 200px;
+                                                    height: 1200px;
                                                     
                                                     width: 260px;
                                                     
@@ -494,5 +494,25 @@
                                                     margin-right:5px;
                                                     
                                                     background-image: url("tecnn.jpg");
+
                                                     
+                                                    }
+
+                                                    .imgtec4{
+            
+             
+            
+                                                        background-repeat: no-repeat;
+                                                        
+                                                        float:right;
+                                                        
+                                                        height: 1800px;
+                                                        
+                                                        width: 2000px;
+                                                        
+                                                        margin-left: 25px;
+                                                        
+                                                        margin-right: 15px;
+                                                        
+                                                        background-image: url("binario.jpg");
                                                     }
